@@ -15,6 +15,11 @@ A simple and elegant settings screen built using React Native. This screen inclu
 - React Native Feather Icons
 - React Native Switch
 
+  
+## How it looks!
+<img src="./working1.png" height="400" widht="200" >
+<img src="./working2.png" height="400" widht="200" >
+
 ## Installation and Setup
 
 ### Prerequisites
@@ -41,16 +46,6 @@ npx expo start
 ```
 Select the desired emulator or scan the QR code using the Expo Go app.
 
-## Project Structure
-```
-├── components/
-│   ├── SettingItem.js    # Reusable setting item component
-├── screens/
-│   ├── SettingsScreen.js # Main settings screen
-└── assets/
-    ├── profile-placeholder.jpg  # Default profile image
-```
-
 ## Components
 ### `SettingsScreen.js`
 This file defines the main settings screen with:
@@ -61,13 +56,4 @@ This file defines the main settings screen with:
 ### `SettingItem.js`
 Reusable component for each setting item with an icon and optional toggle switch.
 
-## Screenshots
-<img src="./working1.png" height=400 widht=200 >
-<img src="./working2.png" height=400 widht=200 >
-
-## License
-This project is licensed under the MIT License.
-
-## Contributions
-Feel free to fork this repository and improve the project by submitting pull requests!
 
