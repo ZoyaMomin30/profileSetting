@@ -17,8 +17,8 @@ A simple and elegant settings screen built using React Native. This screen inclu
 
   
 ## How it looks!
-<img src="./working1.png" height="400" widht="200" >
-<img src="./working2.png" height="400" widht="200" >
+<img src="working1.jpg" height="400" widht="200" >
+<img src="working2.jpg" height="400" widht="200" >
 
 ## Installation and Setup
 
