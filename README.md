@@ -62,7 +62,8 @@ This file defines the main settings screen with:
 Reusable component for each setting item with an icon and optional toggle switch.
 
 ## Screenshots
-![Settings Screen UI](./screenshot.png)
+<img src="./working1.png" height=400 widht=200 >
+<img src="./working2.png" height=400 widht=200 >
 
 ## License
 This project is licensed under the MIT License.
